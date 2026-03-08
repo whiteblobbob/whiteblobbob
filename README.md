@@ -1,6 +1,6 @@
 <div align="center">
-  # whiteblobbob
-  Undergraduate Student
+# whiteblobbob
+Undergraduate Student
 </div>
 
 ---
