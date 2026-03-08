@@ -9,7 +9,8 @@
 ---
 
 ### About
-Currently learning code well
+Currently learning how to code well
+
 Interested in full-stack web development
 
 ---
