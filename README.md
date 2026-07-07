@@ -27,4 +27,4 @@ Interested in full-stack web development
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whiteblobbob)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=whiteblobbob)
